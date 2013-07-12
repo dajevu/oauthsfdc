@@ -1,0 +1,41 @@
+{
+   "id":"https://login.salesforce.com/id/00D30000000pkRxEAI/005a0000009lBoCAAU",
+   "asserted_user":true,
+   "user_id":"005a0000009lBoCAAU",
+   "organization_id":"00D30000000pkRxEAI",
+   "username":"jeff.davis@healthlanguage.com",
+   "nick_name":"jeff.davis",
+   "display_name":"Jeff Davis",
+   "email":"jeff.davis@healthlanguage.com",
+   "first_name":"Jeff",
+   "last_name":"Davis",
+   "status":{
+      "created_date":null,
+      "body":null
+   },
+   "photos":{
+      "picture":"https://c.na13.content.force.com/profilephoto/005/F",
+      "thumbnail":"https://c.na13.content.force.com/profilephoto/005/T"
+   },
+   "urls":{
+      "enterprise":"https://na13.salesforce.com/services/Soap/c/{version}/00D30000000pkRx",
+      "metadata":"https://na13.salesforce.com/services/Soap/m/{version}/00D30000000pkRx",
+      "partner":"https://na13.salesforce.com/services/Soap/u/{version}/00D30000000pkRx",
+      "rest":"https://na13.salesforce.com/services/data/v{version}/",
+      "sobjects":"https://na13.salesforce.com/services/data/v{version}/sobjects/",
+      "search":"https://na13.salesforce.com/services/data/v{version}/search/",
+      "query":"https://na13.salesforce.com/services/data/v{version}/query/",
+      "recent":"https://na13.salesforce.com/services/data/v{version}/recent/",
+      "profile":"https://na13.salesforce.com/005a0000009lBoCAAU",
+      "feeds":"https://na13.salesforce.com/services/data/v{version}/chatter/feeds",
+      "groups":"https://na13.salesforce.com/services/data/v{version}/chatter/groups",
+      "users":"https://na13.salesforce.com/services/data/v{version}/chatter/users",
+      "feed_items":"https://na13.salesforce.com/services/data/v{version}/chatter/feed-items"
+   },
+   "active":true,
+   "user_type":"STANDARD",
+   "language":"en_US",
+   "locale":"en_US",
+   "utcOffset":-28800000,
+   "last_modified_date":"2013-07-08T22:49:20.000+0000"
+}
